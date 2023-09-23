@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>quiz</title>
+</head>
+
+<header>
+  <header class="header-container">
+    <img  class= "logo" src="/assets/img/logo.jpg" alt="Logo Sincopeças">
+</header>
+</header>
+<body>
+    <div id="fundo-quiz">
+      <span id="cronometro">40:00</span>
+        <main id="main-content">
+          <h2>AVALIAÇÃO</h2>
+            <div class="content">
+                <span class="spnQtd"></span>
+                <span class="question"></span>
+                <div class="answers"></div>
+            </div>
+            <div class="finish">
+            <span></span>
+            <button id="button-reiniciar">Reiniciar</button>
+            </div>
+        </main>
+    </div>
+
+    <div id="mensagem-tempo-esgotado" class="mensagem-tempo-esgotado">
+      <p>O tempo acabou! Você será redirecionado de volta para o menu.</p>
+    </div>
+
+    <script>
+      window.addEventListener('beforeunload', function (e) {
+        e.preventDefault();
+        e.returnValue = 'Tem certeza de que deseja sair desta página? Se sair, seu progresso não será salvo.';
+      });
+    </script>
+    <script src="/DOMContentLoader.js"></script>
+  <script src="script.js" type="module"></script>
+</body>
+</html>
