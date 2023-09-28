@@ -121,7 +121,6 @@
         color: black;
         text-decoration: underline;
     }
-@import url('https://fonts.google.com/specimen/Kanit?stroke=Sans+Serif');
 
 #fundo-quiz {
   height: 70vh;
@@ -292,5 +291,82 @@
   font-size: 24px;  
   font-weight: bold; 
 }
+/*menu*/
+#itens-menu ul {
+    flex-direction: column;
+    text-align: center;
 }
 
+#itens-menu li {
+    margin: 10px 0;
+}
+
+header {
+    font-size: 18px;
+}
+} 
+
+/*menu*/
+#new-Body-Menu {
+  min-height: 100vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+#itens-menu {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+#itens-menu ul {
+  margin: 0;
+  list-style: none;
+  padding: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
+} 
+
+
+#itens-menu li {
+  margin: 0 20px;
+}
+
+#itens-menu a {
+  text-decoration: none;
+  color: #0e0d0d;
+  font-weight: bold;
+} 
+.botao-Menu {
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0 100px;
+  flex-direction: column;
+  color: black;
+  align-items: center;
+}
+
+.botao-Menu img {
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  max-width: 150px;
+  margin-bottom: 30px;
+
+}
+.imagens{
+  text-align: center;
+
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  color: #050505;
+  padding: 10px;
+  background: linear-gradient(#ffffff, #9a9a9a);
+  width: 100%;
+  text-align: center;
+}
