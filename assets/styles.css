@@ -156,9 +156,10 @@
   flex-direction: column;
   width: 100%;
   gap: 10px;
+  text-align: justify;
 }
 .question{
-  font-size: 16px;
+  font-size: 14px;
 }
 .spnQtd {
   text-align: end;
@@ -168,7 +169,7 @@
   border-radius: 10px;
   display: flex;
   margin-left: 85%;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   font-weight: bold;
 }
 
@@ -253,6 +254,7 @@
   font-size: 16px;
   cursor: pointer;
   transition: background-color 0.3s;
+  text-decoration: none;
 }
 
 .botao-iniciar-avaliacao:hover {
@@ -268,6 +270,7 @@
   font-size: 16px;
   cursor: pointer;
   transition: background-color 0.3s;
+  text-decoration: none;
 }
 
 .botao-voltar-menu:hover {

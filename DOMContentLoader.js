@@ -37,7 +37,7 @@ function formatarTempo(tempo) {
       clearInterval(cronometroInterval);
       cronometroElemento.textContent = "00:00";
       alert("Tempo esgotado!");
-      window.location.href = "/Menu.html";
+      window.location.href = "/index.html";
     }
   }
   

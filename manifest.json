@@ -1,0 +1,138 @@
+{
+  "background_color": "#ffffff",
+  "description": "PWA para avaliação de vendedores de peças automotivas",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "PWA-PI",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "PWA-PI",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "categories": [
+    "business",
+    "education"
+  ],
+  "screenshots": [
+    {
+      "src": "/assets/img/screenshots/avaliação-SS.png",
+      "sizes": "386x829",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/screenshots/menu-SS.png",
+      "sizes": "383x834",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/screenshots/pré-quiz-SS.png",
+      "sizes": "362x750",
+      "type": "image/png"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/assets/img/ICONS/16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/ICONS/16LOGO2.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/ICONS/32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/ICONS/32LOGO2.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/ICONS/48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/ICONS/48LOGO2.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/ICONS/64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/ICONS/64LOGO2.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/ICONS/72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/ICONS/72LOGO2.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/ICONS/144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/img/ICONS/144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/img/ICONS/256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/ICONS/256LOGO2.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/ICONS/512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/assets/img/ICONS/512LOGO2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/assets/img/ICONS/1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/ICONS/1024LOGO2.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Avaliação vendedores de peças",
+      "url": "https://pwa-pi.netlify.app/",
+      "description": "PWA para avaliação de vendedores de peças automotivas"
+    }
+  ],
+  "id": "PWA-PI",
+  "lang": "pt"
+}
