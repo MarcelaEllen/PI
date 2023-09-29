@@ -24,8 +24,6 @@
                 <div class="answers"></div>
             </div>
             <div class="finish">
-            <span></span>
-            <button id="button-reiniciar">Reiniciar</button>
             </div>
         </main>
     </div>
@@ -34,13 +32,8 @@
       <p>O tempo acabou! Você será redirecionado de volta para o menu.</p>
     </div>
 
-    <script>
-      window.addEventListener('beforeunload', function (e) {
-        e.preventDefault();
-        e.returnValue = 'Tem certeza de que deseja sair desta página? Se sair, seu progresso não será salvo.';
-      });
-    </script>
-    <script src="/DOMContentLoader.js"></script>
-  <script src="script.js" type="module"></script>
+   
+    <script src="/scripts/DOMContentLoader.js"></script>
+  <script src="/scripts/script.js" type="module"></script>
 </body>
 </html>
