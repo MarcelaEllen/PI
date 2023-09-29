@@ -84,8 +84,8 @@
     {
       "src": "/assets/img/ICONS/144.png",
       "sizes": "144x144",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
+    
     },
     {
       "src": "/assets/img/ICONS/144LOGO2.png",
