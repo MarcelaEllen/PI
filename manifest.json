@@ -3,10 +3,10 @@
   "description": "PWA para avaliação de vendedores de peças automotivas",
   "dir": "ltr",
   "display": "standalone",
-  "name": "PWA-PI",
+  "name": "SINCOPEÇAS",
   "orientation": "portrait",
   "scope": "/",
-  "short_name": "PWA-PI",
+  "short_name": "SINCOPEÇAS",
   "start_url": "/index.html",
   "theme_color": "#ffffff",
   "categories": [
@@ -88,10 +88,9 @@
       "purpose": "any"
     },
     {
-      "src": "/assets/img/ICONS/144.png",
+      "src": "/assets/img/ICONS/144LOGO2.png",
       "sizes": "144x144",
-      "type": "image/png",
-      "purpose": "any"
+      "type": "image/png"
     },
     {
       "src": "/assets/img/ICONS/256.png",
@@ -106,14 +105,18 @@
     {
       "src": "/assets/img/ICONS/512.png",
       "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/ICONS/iconeLOGOTI.png",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
       "src": "/assets/img/ICONS/512LOGO2.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable any"
+      "type": "image/png"
     },
     {
       "src": "/assets/img/ICONS/1024.png",
