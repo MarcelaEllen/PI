@@ -84,7 +84,8 @@
     {
       "src": "/assets/img/ICONS/144.png",
       "sizes": "144x144",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     
     },
     {
@@ -132,10 +133,10 @@
   "shortcuts": [
     {
       "name": "Avaliação vendedores de peças",
-      "url": "https://pwa-pi.netlify.app/",
+      "url": "https://sincopecas.netlify.app/",
       "description": "PWA para avaliação de vendedores de peças automotivas"
     }
   ],
-  "id": "PWA-PI",
+  "id": "SINCOPEÇAS",
   "lang": "pt"
 }
