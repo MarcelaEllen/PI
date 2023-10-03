@@ -3,7 +3,7 @@
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-        font-family:'Times New Roman', Times, serif;
+        font-family: 'roboto', sans-serif;
       }
       .header-container {
         position:static;
@@ -295,7 +295,77 @@
 header {
     font-size: 18px;
 }
+
+
+
+
+
+
+
+/* Estilo para o ícone do menu hamburguer */
+.menu-toggle {
+    display: block;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    cursor: pointer;
+    z-index: 1000;
+}
+
+.menu-toggle img {
+    width: 30px;
+    height: 30px;  
+}
+
+/* Estilo para o menu lateral */
+#menu-lateral {
+    position: fixed;
+    top: 0;
+    left: -300px; 
+    width: 250px;
+    height: 100%;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    transition: left 0.3s; 
+    z-index: 1000; 
+}
+
+#menu-lateral a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #333; /* Cor do texto */
+  background-color: #f5f5f5; /* Cor de fundo */
+  border-bottom: 1px solid #ddd; /* Borda inferior */
+  margin-bottom: 5px; /* Espaçamento inferior entre os itens */
+  cursor: pointer;
+  padding: 12px 20px;
+  font-size: 16px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+#menu-lateral a:hover {
+  background-color: #ddd; /* Cor de fundo quando o mouse passa por cima */
+}
+
+#menu-lateral-content {
+    padding: 20px;
+}
+
+/* Estilo para o botão de fechar o menu */
+#fechar-menu {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
 } 
+
+
+
+
+
+
 
 /*menu*/
 #new-Body-Menu {
@@ -335,6 +405,8 @@ header {
   padding: 10px;
   border-radius: 5px;
   margin: 0 100px;
+  display: flex;
+  justify-content: center;
   flex-direction: column;
   color: black;
   align-items: center;
@@ -342,9 +414,10 @@ header {
 
 .botao-Menu img {
   height: auto;
-  display: block;
+  display: flex;
+  justify-content: center;
   margin: 0 auto;
-  max-width: 150px;
+  width: 150px;
   margin-bottom: 30px;
 
 }
