@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./assets/stylesCadastro.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <title>Formulário de Cadastro</title>
+</head>
+
+<body>
+    <header class="header-container">
+        <img  class= "logo" src="./assets/img/logo.jpg" alt="Logo Sindipeças">
+    </header>
+
+    <h1>Cadastro</h1>
+    
+    <br><br>
+    
+    <form class="row g-3">
+        <div class="col-md-6">
+            <label for="inputNome" class="form-label">Nome Completo</label>
+            <input type="text" class="form-control" id="inputNome">
+          </div>
+        
+        <div class="col-md-6">
+            <label for="inputCPF" class="form-label">CPF</label>
+            <input type="text" class="form-control" id="inputCPF" maxlength="11">
+        </div>
+
+        <div class="col-md-6">
+          <label for="inputEmail4" class="form-label">Email</label>
+          <input type="text" class="form-control" id="inputEmail4">
+        </div>
+
+        <div class="col-md-6">
+            <label for="inputRG" class="form-label">RG</label>
+            <input type="text" class="form-control" id="inputRG">
+        </div>
+
+        <div class="col-md-6">
+            <label for="inputNascimento" class="form-label">Data de Nascimento</label>
+            <input type="date" class="form-control" id="inputNascimento" required pattern="\d{2}/\d{2}/\d{4}" placeholder="dd/mm/aaaa">
+        </div>
+
+        <div class="col-md-6">
+            <label for="inputEmpresa" class="form-label">Empresa</label>
+            <input type="text" class="form-control" id="inputEmpresa">
+        </div>
+
+        <div class="col-md-6">
+            <label for="inputFuncao" class="form-label">Função</label>
+            <input type="text" class="form-control" id="inputFuncao">
+        </div>
+
+        <div class="col-md-6">
+            <label for="inputTelefone" class="form-label">Telefone</label>
+            <input type="tel" class="form-control" id="inputTelefone" minlength="9" maxlength="11" placeholder="(99) 99999999" pattern="[0-9]+">
+        </div>
+
+        <div class="col-md-6">
+          <label for="inputPassword4" class="form-label">Senha</label>
+          <input type="password" class="form-control" id="inputPassword4">
+        </div>
+
+        <div class="col-12">
+          <label for="inputEndereco" class="form-label">Endereço</label>
+          <input type="text" class="form-control" id="inputEndereco">
+        </div>
+
+        <div class="col-md-6">
+          <label for="inputCidade" class="form-label">Cidade</label>
+          <input type="text" class="form-control" id="inputCidade">
+        </div>
+
+        <div class="col-md-4">
+          <label for="inputEstado" class="form-label">Estado</label>
+          <select id="inputEstado" class="form-select">
+            <option selected>Selecione</option>
+            <option value="inputEstado">Acre (AC)</option>
+            <option value="inputEstado">Alagoas (AL)</option>
+            <option value="inputEstado">Amapá (AP)</option>
+            <option value="inputEstado">Amazonas (AM)</option>
+            <option value="inputEstado">Bahia (BA)</option>
+            <option value="inputEstado">Ceará (CE)</option>
+            <option value="inputEstado">Distrito Federal (DF)</option>
+            <option value="inputEstado">Espírito Santo (ES)</option>
+            <option value="inputEstado">Goiás (GO)</option>
+            <option value="inputEstado">Maranhão (MA)</option>
+            <option value="inputEstado">Mato Grosso (MT)</option>
+            <option value="inputEstado">Mato Grosso do Sul (MS)</option>
+            <option value="inputEstado">Minas Gerais (MG)</option>
+            <option value="inputEstado">Pará (PA)</option>
+            <option value="inputEstado">Paraíba (PB)</option>
+            <option value="inputEstado">Paraná (PR)</option>
+            <option value="inputEstado">Pernambuco (PE)</option>
+            <option value="inputEstado">Piauí (PI)</option>
+            <option value="inputEstado">Rio de Janeiro (RJ)</option>
+            <option value="inputEstado">Rio Grande do Norte (RN)</option>
+            <option value="inputEstado">Rio Grande do Sul (RS)</option>
+            <option value="inputEstado">Rondônia (RO)</option>
+            <option value="inputEstado">Roraima (RR)</option>
+            <option value="inputEstado">Santa Catarina (SC)</option>
+            <option value="inputEstado">São Paulo (SP)</option>
+            <option value="inputEstado">Sergipe (SE)</option>
+            <option value="inputEstado">Tocantins (TO)</option>
+          </select>
+        </div>
+
+        <div class="col-md-2">
+          <label for="inputCEP" class="form-label">CEP</label>
+          <input type="text" class="form-control" id="inputCEP" maxlength="9" placeholder="12345-000">
+        </div>
+
+        <div class="col-12">
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="gridCheck">
+            <label class="form-check-label" for="gridCheck">
+              Lembrar de mim
+            </label>
+          </div>
+
+        </div>
+        <div class="container-fluid d-flex justify-content-center align-items-center">
+         <span><a href="/index.html" class="btn btn-outline-success">CADASTRAR</a></span> 
+        </div>
+     
+
+      </form>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+
+    <script src="/scripts/cadastro.js"></script>
+
+  </body>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <title>quiz</title>
+</head>
+
+<header>
+  <header class="header-container">
+    <img  class= "logo" src="/assets/img/logo.jpg" alt="Logo Sincopeças">
+</header>
+</header>
+<body>
+    <div id="fundo-quiz">
+      <div id="main-content">
+        <span id="cronometro">40:00</span>
+        <h2>AVALIAÇÃO</h2>
+        <div class="content">
+          <span class="spnQtd"></span>
+          <span class="question"></span>
+          <div class="answers"></div>
+        </div>
+        <div>
+          <p class="finish"></p>
+        </div>
+      </div>
+      
+    </div>
+
+    <div id="mensagem-tempo-esgotado" class="mensagem-tempo-esgotado">
+      <p>O tempo acabou! Você será redirecionado de volta para o menu.</p>
+    </div>
+
+   
+    <script src="/scripts/DOMContentLoader.js"></script>
+    <script src="/scripts/script.js" type="module"></script>
+  <script src="/scripts/callJson.js"></script>
+</body>
+</html>
