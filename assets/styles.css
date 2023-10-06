@@ -170,7 +170,8 @@
     transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
   }
   
-  .answer:hover {
+  .answer:active {
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
     background-color: #b89d08c2; /* Cor de fundo ao passar o mouse, correspondente ao Bootstrap */
     color: #fff; /* Cor do texto ao passar o mouse, correspondente ao Bootstrap */
     border-color: #b89d08c2; /* Cor da borda ao passar o mouse, correspondente ao Bootstrap */
@@ -196,7 +197,7 @@ border-radius: 10px; /* Borda arredondada */
 transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
 }
 
-.finish-button:hover{
+.finish-button:active{
   background-color: #b89d08c2; /* Cor de fundo ao passar o mouse, correspondente ao Bootstrap */
   color: #fff; /* Cor do texto ao passar o mouse, correspondente ao Bootstrap */
   border-color: #b89d08c2; /* Cor da borda ao passar o mouse, correspondente ao Bootstrap */
