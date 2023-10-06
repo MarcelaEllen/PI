@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href= "/assets/styles.css" />
     <title>Aprenda mais com o Senac</title>
 </head>
@@ -10,15 +11,31 @@
     <header class="header-container">
         <img  class= "logo" src="/assets/img/logo.jpg" alt="Logo Sincopeças">
     </header>
+
+    <div class="menu-toggle">
+        <img src="/assets/img/menu-hamburguer.png" alt="Menu">
+    </div>
+    <div id="menu-lateral">
+        <a href="/login.html" class="btn btn-outline-success btn-burguer">
+            <i></i> Login
+        </a>
+        <a href="/index.html" class="btn btn-outline-success btn-burguer">
+            <i></i> Menu
+        </a>
+    </div>
     <main>
-        
-        <div>
-            <div>
-                <h2>Em parceria com o Senac, nossa plataforma oferece cursos sob medida para impulsionar sua carreira. Acesse facilmente no seu celular e eleve seu desempenho profissional com a excelência do Senac.</h2>
+        <div id="video-content">
+            <div class="video-texto">
+                <h2 class="text-sm">Em parceria com o Senac, nossa plataforma oferece cursos sob medida para impulsionar sua carreira. Acesse facilmente no seu celular e eleve seu desempenho profissional com a excelência do Senac.</h2>
             </div>
             <iframe width="280px" height="215" src="https://www.youtube.com/embed/Br4xr9BpqSc?si=glTnpj98P9Sortbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
-        
+     <br><br>
+        <div>
+            <iframe width="280px" height="215" src="https://www.youtube.com/embed/7hY7NPvILo8?si=7hESxfZKj_wh8hAy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </iframe>
+        </div>
     </main>
+    <script src="/scripts/menuhambur.js"></script>
 </body>
 </html>

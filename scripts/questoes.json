@@ -1,0 +1,397 @@
+{
+  "questoes": [
+    {
+      "questao_id": 1,
+      "question": "Em um programa de televisão sobre mercado de trabalho, três especialistas em atendimento ao cliente tecem os seguintes comentários sobre os princípios da venda pessoal:\n\n Alice - A época do vendedor esperto já passou, e no seu lugar está o profissional que sabe levantar boas perguntas, ouvir e aprender.\n Antônio - Os vendedores eficazes possuem um instinto natural que se revela especialmente no momento de convencer as pessoas.\nPedro  - A função do vendedor é aumentar o número de clientes de sua empresa, focando seus esforços na realização de negócios imediatos.\n\nÉ(São) correta(s) a(s) afirmação(ões) de:",
+      "answers": [
+        { "index": 1, "option": "Alice, Antônio e Pedro.", "correct": true },
+        { "index": 2, "option": "Alice e Antônio, apenas.", "correct": false },
+        { "index": 3, "option": "Pedro e Antônio, apenas.", "correct": false },
+        { "index": 4, "option": "Pedro, apenas.", "correct": false },
+        { "index": 5, "option": "Alice, apenas.", "correct": false }
+      ]
+    },
+
+    {
+      "questao_id": 2,
+      "question": "O atendimento ao cliente pode ser feito de forma presencial ou por meio de telefone e requer conhecimentos, atitudes e comportamentos adequados. Em relação às atitudes e comportamentos, assinale a alternativa que apresenta alguns dos aspectos implícitos no atendimento ao público.",
+      "answers": [
+        {
+          "index": 1,
+          "option": "Palavras, diferenciação e apoio pessoal.",
+          "correct": false
+        },
+        {
+          "index": 2,
+          "option": "Aparência, expressão corporal e voz.",
+          "correct": true
+        },
+        {
+          "index": 3,
+          "option": "Roteiro padrão, idoneidade e sigilo.",
+          "correct": false
+        },
+        {
+          "index": 4,
+          "option": "Honestidade, praticidade e visão.",
+          "correct": false
+        },
+        {
+          "index": 5,
+          "option": "Confrontação, impessoalidade e zelo",
+          "correct": false
+        }
+      ]
+    },
+
+    {
+      "questao_id": 3,
+      "question": "Atendimento corresponde ao ato de atender, ou seja, ao ato de prestar atenção às pessoas com as quais mantemos contato. O “bom atendimento é aquele que procura verdadeiramente atender às expectativas do público. Sobre o assunto, analise as afirmativas abaixo: \n\n I. A qualidade do atendimento prestado depende da capacidade de se comunicar com o público e da mensagem transmitida. \n II. Inicie a conversa com uma atitude amigável e prestativa. Seja proativo, pergunte à pessoa: ''Em que posso ajudar?''. \n III. Mantenha a calma mesmo com pessoas menos educadas.Jamais as interrompa, discuta ou seja agressivo com elas. \n\n O número de afirmativas INCORRETAS corresponde a:",
+      "answers": [
+        { "index": 1, "option": "Zero.", "correct": false },
+        { "index": 2, "option": "Uma.", "correct": false },
+        { "index": 3, "option": "Duas.", "correct": true },
+        { "index": 4, "option": "Três.", "correct": false }
+      ]
+    },
+    {
+      "questao_id": 4,
+      "question": "Os principais indicadores de um atendimento ao público que prioriza a qualidade dos serviços prestados e a satisfação dos seus clientes são, EXCETO:",
+      "answers": [
+        { "index": 1, "option": "Incompetência", "correct": false },
+        { "index": 2, "option": "Cortesia", "correct": false },
+        { "index": 3, "option": "Presteza", "correct": true },
+        { "index": 4, "option": "Paciência", "correct": false },
+        { "index": 5, "option": "Respeito", "correct": false }
+      ]
+    },
+    {
+      "questao_id": 5,
+      "question": "No atendimento ao público, interno ou externo, qualidade é essencial. É ela a responsável pela imagem da instituição diante dos que a procuram. São ações esperadas num adequado atendimento: \n\n I. demonstrar sempre complacência em relação aos assuntos do trabalho ou que lhe forem questionados. <br> II. ser passivo para não gerar conflitos internos ou com o público em atendimento. \n II. ser passivo para não gerar conflitos internos ou com o público em atendimento. \n\n Pode-se afirmar que:",
+      "answers": [
+        { "index": 1, "option": "Somente I está correta.", "correct": false },
+        { "index": 2, "option": "Somente II está correta.", "correct": false },
+        { "index": 3, "option": "Somente III está correta.", "correct": true },
+        { "index": 4, "option": "Nenhuma está correta.", "correct": false },
+        { "index": 5, "option": "Todas estão corretas.", "correct": false }
+      ]
+    },
+    {
+      "questao_id": 6,
+      "question": "Para poder atender bem ao público é necessário: \n\n I - Estar sempre desatento; \n II - Conhecer o que deseja o atendido; \n III -Utilizar linguagem clara durante a fala. \n\n Dos itens acima:",
+      "answers": [
+        {
+          "index": 1,
+          "option": "Apenas o item I está correto.",
+          "correct": false
+        },
+        {
+          "index": 2,
+          "option": "Apenas o item II está correto.",
+          "correct": false
+        },
+        {
+          "index": 3,
+          "option": "Apenas o item III está correto.",
+          "correct": true
+        },
+        {
+          "index": 4,
+          "option": "Apenas os itens I e III estão corretos.",
+          "correct": false
+        },
+        {
+          "index": 5,
+          "option": "Apenas os itens II e III estão corretos.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "questao_id": 7,
+      "question": "O bom atendimento ao público é capaz de gerar inúmeros benefícios às organizações, podendo ser considerado, em muitos casos, o ponto fundamental para o sucesso de um negócio. A esse respeito, assinale a alternativa correta.",
+      "answers": [
+        {
+          "index": 1,
+          "option": "O ambiente no qual o cliente entra em contato com a empresa, que seja confortável e possua uma iluminação e mobiliário adequados, não pode ser capaz de interferir na qualidade do atendimento ao público.",
+          "correct": false
+        },
+
+        {
+          "index": 2,
+          "option": "Os colaboradores de uma organização devem mentir ou omitir informações que, caso sejam repassadas ao cliente, possam gerar prejuízos à organização. Como exemplo, os vendedores nunca devem dizer ao cliente que um produto está em falta.",
+          "correct": false
+        },
+
+        {
+          "index": 3,
+          "option": "Em uma circunstância de contato direto com o cliente, como, por exemplo, em situação de venda, os colaboradores só devem dar importância aos clientes que, de fato, pareçam interessados em realizar a compra.",
+          "correct": true
+        },
+
+        {
+          "index": 4,
+          "option": "Em nenhuma hipótese, cabe à empresa adaptar-se para satisfazer aos seus clientes durante o atendimento ao público.",
+          "correct": false
+        },
+
+        {
+          "index": 5,
+          "option": "Avaliar e monitorar o atendimento ao público da empresa é importante para aperfeiçoar e sanar as possíveis falhas existentes no contato que a organização possui com o cliente.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "questao_id": 8,
+      "question": "Expressões adequadas no atendimento telefônico são:",
+      "answers": [
+        {
+          "index": 1,
+          "option": "Vou transferir a ligação; pêra aí; meu amor.",
+          "correct": false
+        },
+        {
+          "index": 2,
+          "option": "Alô; chuchu; espere um pouquinho.",
+          "correct": false
+        },
+        {
+          "index": 3,
+          "option": "Fofa; um momento, por favor; heim.",
+          "correct": true
+        },
+        {
+          "index": 4,
+          "option": "Bom dia; às ordens; à disposição.",
+          "correct": false
+        },
+        { "index": 5, "option": "Anjo; oi; por favor.", "correct": false }
+      ]
+    },
+    {
+      "questao_id": 9,
+      "question": "Existem três grupos de atitudes no atendimento ao público interno e externo. Atitudes ativas: são obrigatórias e compreendem a boa postura e apresentação; a cortesia, a empatia, o sorriso franco, o saber escutar, a gentileza e disposição, a rapidez no atendimento, a tranquilidade, a sinceridade, a comunicação correta e, principalmente, o comprometimento; atitudes reativas: só ocorrem se houver uma ação do público que as justifique; e atitudes proativas que, embora não sejam obrigatórias, consistem na visualização de “oportunidades” para fazer um “algo mais” durante o atendimento, excedendo as expectativas. \n\n Considerando as atitudes reativas, aponte a atitude incorreta diante de uma pessoa nervosa, agressiva e mal educada.",
+      "answers": [
+        {
+          "index": 1,
+          "option": "Não leve o problema para o lado pessoal.",
+          "correct": false
+        },
+        {
+          "index": 2,
+          "option": "Reaja com cortesia, com suavidade.",
+          "correct": false
+        },
+        {
+          "index": 3,
+          "option": "Diante da falta de educação, responda da mesma forma, não demonstrando fraqueza.",
+          "correct": true
+        },
+        {
+          "index": 4,
+          "option": "Tome cuidado para não parecer irônico.",
+          "correct": false
+        },
+        {
+          "index": 5,
+          "option": "Use frases sem duplo sentido.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "questao_id": 10,
+      "question": "Segundo Pozo (2007) “armazenagem, manuseio e controle das peças são componentes importantes e essenciais podem ocasionar vários problemas para a empresa desde custo elevado em manter peças paradas em estoque até a falta de produtos, gerando atrasos nas entregas aos clientes, custo desnecessário em compras erradas dentre outros problemas. Dessa forma quando o vendedor de peças se depara com uma situação em que o sistema informa que tem a peça, porém na prateleira não consta, podemos dizer que a acurácia desse estoque está correta sim ou não?",
+      "answers": [
+        { "index": 1, "option": "Sim.", "correct": false },
+        { "index": 2, "option": "Não.", "correct": true }
+      ]
+    },
+    {
+      "questao_id": 11,
+      "question": "Sabemos que os veículos possuem diversos sistemas (direção, suspensão, freios etc.) que funcionam em conjunto para um perfeito funcionamento do veículo. Dessa forma o vendedor peças tem que conhecer bem os sistemas dos veículos. Um cliente ligar solicitando o preço de uma determinada peças (\nPlatô e rolamento\n), ele está se referindo ao qual sistema?",
+      "answers": [
+        { "index": 1, "option": "Direção", "correct": false },
+        { "index": 2, "option": "Freios", "correct": false },
+        { "index": 3, "option": "Suspensão", "correct": true },
+        { "index": 4, "option": "Injeção eletrônica ", "correct": false },
+        { "index": 5, "option": "Sistema de embreagem", "correct": false }
+      ]
+    },
+    {
+      "questao_id": 12,
+      "question": "Um cliente ligar para o departamento de peças a procura de um cilindro mestre. O vendedor deve realizar a pesquisa pela peça em catálogo de fabricante de em qual sistema?",
+      "answers": [
+        { "index": 1, "option": "Freios.", "correct": false },
+        { "index": 2, "option": "Direção.", "correct": false },
+        { "index": 3, "option": "Suspensão.", "correct": true },
+        { "index": 4, "option": "Exaustão", "correct": false },
+        { "index": 5, "option": "Motor", "correct": false }
+      ]
+    },
+    {
+      "questao_id": 13,
+      "question": "Conhecimento é a “bagagem” que um profissional precisa ter para executar suas funções da melhor maneira possível. Ele é a união entre teoria e prática. Baseado na bagagem que um bom vendedor deve ter ele se depara com um cliente a procura de uma peça. O cliente informa que precisa resolver um vazamento de óleo em seu veículo, e o mecânico de sua confiança pede que ele compre um jogo de velas de ignição. O que o vendedor de peças deve fazer?",
+      "answers": [
+        {
+          "index": 1,
+          "option": "Informar ao cliente que essa peça (velas de ignição não tem relação com o vazamento de óleo mencionado pelo cliente, ele deve solicitar a cliente que ligue para o mecânico para tirar a dúvida qual é peças realmente.",
+          "correct": false
+        },
+        {
+          "index": 2,
+          "option": "Não faz nada, pois é o cliente que estar solicitado a peças e o vendedor não tem responsabilidade pelo erro dos outros.",
+          "correct": false
+        },
+        {
+          "index": 3,
+          "option": "Vende o jogo velas pois precisa bater meta.",
+          "correct": true
+        },
+        {
+          "index": 4,
+          "option": "Diz que não tem a peças, pois sabe que está venda vai dar errada.",
+          "correct": false
+        },
+        {
+          "index": 5,
+          "option": "Vende o jogo de vela e oferece o jogo de junta completo do motor.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "questao_id": 14,
+      "question": "Analise as informações abaixo relacionando a coluna A com a coluna B. \n\n 1) Pivô <br> 2) Amortecedor. \n 3) Mola Suspensão. \n 4) Bobina ignição \n 5) Anel seguimento motor \n\n (   ) Também conhecido como pino esférico ou articulação é um componente feito em metal. Ele é o responsável conectar os componentes como o telescópio e manga de eixos. \n (   ) Responsável por garantir a sustentação do peso e manter altura correta do veículo, bem como absorver os impactos e oscilações do solo. <br> (   ) É o elemento que tem como função principal controlar as oscilações da mola de suspensão. \n (   ) Eles vedam a câmara de combustão e de trabalho do pistão do motor. Além disso, também limpam o óleo das paredes do cilindro e regulam assim o consumo de óleo. \n (   ) Ela é responsável por gerar a alta voltagem, que produz centelha para velas de ignição realizar a explosão da câmara de combustão. \n\n A sequencia correta respectivamente é: \n\n",
+      "answers": [
+        { "index": 1, "option": "1 , 2 , 3 , 4 , 5.", "correct": false },
+        { "index": 2, "option": "2 , 1 , 3 , 5 , 4.", "correct": true },
+        { "index": 3, "option": "3 , 1 , 2 , 4 , 5.", "correct": false },
+        { "index": 4, "option": "2 , 3 , 1 , 4 , 4.", "correct": false }
+      ]
+    },
+    {
+      "questao_id": 15,
+      "question": "Os óleos lubrificantes são essenciais para garantir o bom funcionamento do motor, pois tem o papel de lubrificar e permitir a mobilidade das peças internas, evitando atritos e preservando a durabilidade do motor, além de ser importante para o controle da temperatura. Quais os tipos de lubrificantes para os veículos automotivos de acordo com sua evolução?",
+      "answers": [
+        {
+          "index": 1,
+          "option": "Mineral, semissintético e sintético",
+          "correct": false
+        },
+        { "index": 2, "option": "Semissintético e mineral", "correct": false },
+        { "index": 3, "option": "Apenas mineral", "correct": true },
+        { "index": 4, "option": "Apenas semissintético", "correct": false },
+        { "index": 5, "option": "Nenhuma das alternativas", "correct": false }
+      ]
+    },
+    {
+      "questao_id": 16,
+      "question": "Um cliente liga para o setor de vendas de peças a procura de fluido para transmissão automática, entretanto o cliente não sabe informa a especificação correta do fluido para o seu veículo. Qual o procedimento correto que o vendedor deve adotar para atender o cliente?",
+      "answers": [
+        {
+          "index": 1,
+          "option": "Deve passar o preço o fluido mais barato ajudando o cliente financeiramente.",
+          "correct": false
+        },
+        {
+          "index": 2,
+          "option": "Deve passar o preço do fluido sintético tendo em vista que o um fluido de boa qualidade.",
+          "correct": false
+        },
+        {
+          "index": 3,
+          "option": "Deve informar que não trabalha com lubrificantes para não correr o risco de vender um fluido incorreto e podendo até danificar o câmbio automático. ",
+          "correct": true
+        },
+        {
+          "index": 4,
+          "option": "Deve oferecer o fluido mais caro ao cliente, tendo em vista na sua opinião se tratar de um excelente fluido",
+          "correct": false
+        },
+        {
+          "index": 5,
+          "option": "Deve informa ao cliente que irá verificar a ficha técnica do veículo e analisar a correta especificação do fluido para o seu veículo, só mediante a informação correta que deve passar valores.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "questao_id": 17,
+      "question": "Um bom vendedor deve estar sempre antenado as tecnologias e lançamentos dos veículos e peças automotivas. Sabendo disso um cliente solicitar um orçamento de um determinado veículo que possui sistema de injeção eletrônica, Ele estar precisando dos bicos injetores, entretanto o cliente informa que o conector do bico é de 4 vias e aproveita para perguntar o porquê de 4 vias e não de 2 vias como é mais conhecido. Você responde;",
+      "answers": [
+        {
+          "index": 1,
+          "option": "Os bicos de 4 vias e para diminuir o consumo do veículo e aumentar a potência do motor.",
+          "correct": false
+        },
+        {
+          "index": 2,
+          "option": "Os bicos de 4 vias servem apenas para respeitar normas de poluição.",
+          "correct": false
+        },
+        {
+          "index": 3,
+          "option": "Os bicos de 4 vias normalmente são uma tecnologia para aquecimento dos bicos, uma inovação do sistema partida frio onde o reservatório de combustível para partida frio foi extinto.",
+          "correct": true
+        },
+        {
+          "index": 4,
+          "option": "Os bicos de 4 vias e para veículo tetrafuel (gasolina, álcool, gnv, gasolina pura).",
+          "correct": false
+        },
+        {
+          "index": 5,
+          "option": "Os bicos de 4 vias são apenas para veículos diesel.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "questao_id": 18,
+      "question": "No seguimento automotivo e muito comum as letras do alfabeto informam sobre os sistemas eletrônicos dos veículos, que são muitas por exemplo (AIR BAG, DWG, ESP, VAN, CAN, REDE, 4X4 e por ai vai.... a letra ABS está relacionado a qual sistema eletrônico do veículo?",
+      "answers": [
+        { "index": 1, "option": "Injeção eletrônica.", "correct": false },
+        { "index": 2, "option": "Transmissão automática.", "correct": false },
+        { "index": 3, "option": "Freios.", "correct": true },
+        { "index": 4, "option": "Imobilizador.", "correct": false },
+        { "index": 5, "option": "Direção elétrica.", "correct": false }
+      ]
+    },
+    {
+      "questao_id": 19,
+      "question": "O sistema de freios é composto por diversos componentes, quais desses abaixo não pertence ao sistema de freios?",
+      "answers": [
+        { "index": 1, "option": "Palheta, disco, pastilha", "correct": false },
+        { "index": 2, "option": "Vela, embolo, pinça", "correct": false },
+        {
+          "index": 3,
+          "option": "Pastilha, disco, cilindro mestre",
+          "correct": true
+        },
+        {
+          "index": 4,
+          "option": "Cilindro mestre, cilindro de roda, bronzina",
+          "correct": false
+        },
+        {
+          "index": 5,
+          "option": "Modulo air bag, sensor velocidade roda, sapata",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "questao_id": 20,
+      "question": "O sistema de injeção eletrônica indireta e composto por diversos atuadores e sensores, quais componentes abaixo pertence ao sistema de injeção direta de combustível GDI?",
+      "answers": [
+        { "index": 1, "option": "Bomba de alta pressão ", "correct": false },
+        { "index": 2, "option": "Atuador de marca lenta", "correct": false },
+        { "index": 3, "option": "Sensor de temperatura", "correct": true },
+        { "index": 4, "option": "Corpo borboleta", "correct": false },
+        { "index": 5, "option": "Sensor map", "correct": false }
+      ]
+    }
+  ]
+}
