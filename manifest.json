@@ -3,10 +3,10 @@
   "description": "PWA para avaliação de vendedores de peças automotivas",
   "dir": "ltr",
   "display": "standalone",
-  "name": "SINCOPEÇAS",
+  "name": "Sincopeças App",
   "orientation": "portrait",
   "scope": "/",
-  "short_name": "SINCOPEÇAS",
+  "short_name": "Sincopeças App",
   "start_url": "/index.html",
   "theme_color": "#ffffff",
   "categories": [
@@ -15,18 +15,18 @@
   ],
   "screenshots": [
     {
-      "src": "/assets/img/screenshots/avaliação-SS.png",
-      "sizes": "386x829",
+      "src": "/assets/img/screenshots/login-SS.png",
+      "sizes": "387x833",
       "type": "image/png"
     },
     {
       "src": "/assets/img/screenshots/menu-SS.png",
-      "sizes": "383x834",
+      "sizes": "371x833",
       "type": "image/png"
     },
     {
-      "src": "/assets/img/screenshots/pré-quiz-SS.png",
-      "sizes": "362x750",
+      "src": "/assets/img/screenshots/pre-quiz-SS.png",
+      "sizes": "384x832",
       "type": "image/png"
     }
   ],
@@ -37,17 +37,7 @@
       "type": "image/png"
     },
     {
-      "src": "/assets/img/ICONS/16LOGO2.png",
-      "sizes": "16x16",
-      "type": "image/png"
-    },
-    {
       "src": "/assets/img/ICONS/32.png",
-      "sizes": "32x32",
-      "type": "image/png"
-    },
-    {
-      "src": "/assets/img/ICONS/32LOGO2.png",
       "sizes": "32x32",
       "type": "image/png"
     },
@@ -57,17 +47,7 @@
       "type": "image/png"
     },
     {
-      "src": "/assets/img/ICONS/48LOGO2.png",
-      "sizes": "48x48",
-      "type": "image/png"
-    },
-    {
       "src": "/assets/img/ICONS/64.png",
-      "sizes": "64x64",
-      "type": "image/png"
-    },
-    {
-      "src": "/assets/img/ICONS/64LOGO2.png",
       "sizes": "64x64",
       "type": "image/png"
     },
@@ -77,12 +57,7 @@
       "type": "image/png"
     },
     {
-      "src": "/assets/img/ICONS/72LOGO2.png",
-      "sizes": "72x72",
-      "type": "image/png"
-    },
-    {
-      "src": "/assets/img/144.png",
+      "src": "/assets/img/ICONS/144ball.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "maskable any"
@@ -93,36 +68,22 @@
       "type": "image/png"
     },
     {
-      "src": "/assets/img/ICONS/256LOGO2.png",
-      "sizes": "256x256",
-      "type": "image/png"
-    },
-    {
       "src": "/assets/img/ICONS/512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/assets/img/512.png",
+      "src": "/assets/img/ICONS/512ball.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "/assets/img/ICONS/512LOGO2.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
       "src": "/assets/img/ICONS/1024.png",
       "sizes": "1024x1024",
       "type": "image/png"
-    },
-    {
-      "src": "/assets/img/ICONS/1024LOGO2.png",
-      "sizes": "1024x1024",
-      "type": "image/png"
     }
+
   ],
   "shortcuts": [
     {
