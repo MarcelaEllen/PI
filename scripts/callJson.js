@@ -33,7 +33,7 @@ async function carregarPerguntas() {
       btnVoltarMenu.textContent = "FINALIZAR";
       btnVoltarMenu.classList.add("finish-button");
       btnVoltarMenu.addEventListener("click", () => {
-        window.location.href = "/index.html";
+        window.location.href = "/resultadofake.html";
       });
     
       answers.appendChild(resultado);

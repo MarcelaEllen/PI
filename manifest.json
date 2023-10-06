@@ -82,16 +82,10 @@
       "type": "image/png"
     },
     {
-      "src": "/assets/img/ICONS/144.png",
+      "src": "/assets/img/144.png",
       "sizes": "144x144",
       "type": "image/png",
-      "purpose": "any"
-    
-    },
-    {
-      "src": "/assets/img/ICONS/144LOGO2.png",
-      "sizes": "144x144",
-      "type": "image/png"
+      "purpose": "maskable any"
     },
     {
       "src": "/assets/img/ICONS/256.png",
@@ -109,7 +103,7 @@
       "type": "image/png"
     },
     {
-      "src": "/assets/img/ICONS/iconeLOGOTI.png",
+      "src": "/assets/img/512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
