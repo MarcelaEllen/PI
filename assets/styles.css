@@ -162,19 +162,19 @@
     font-size: 14px;
     font-weight: 400;
     text-decoration: none;
-    border: 1px solid #006a9b; /* Cor da borda do botão de sucesso do Bootstrap */
-    color: #006a9b; /* Cor do texto do botão de sucesso do Bootstrap */
-    background-color: transparent; /* Cor de fundo transparente */
+    border: 1px solid #006a9b; 
+    color: #006a9b;
+    background-color: transparent; 
     cursor: pointer;
-    border-radius: 10px; /* Borda arredondada */
+    border-radius: 10px; 
     transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
   }
   
   .answer:active {
     transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
-    background-color: #b89d08c2; /* Cor de fundo ao passar o mouse, correspondente ao Bootstrap */
-    color: #fff; /* Cor do texto ao passar o mouse, correspondente ao Bootstrap */
-    border-color: #b89d08c2; /* Cor da borda ao passar o mouse, correspondente ao Bootstrap */
+    background-color: #b89d08c2; 
+    color: #fff; 
+    border-color: #b89d08c2; 
   }
 
 .finish {
@@ -189,18 +189,18 @@ padding: 8px 16px;
 font-size: 14px;
 font-weight: 400;
 text-decoration: none;
-border: 1px solid #006a9b; /* Cor da borda do botão de sucesso do Bootstrap */
-color: #006a9b; /* Cor do texto do botão de sucesso do Bootstrap */
-background-color: transparent; /* Cor de fundo transparente */
+border: 1px solid #006a9b; 
+color: #006a9b; 
+background-color: transparent; 
 cursor: pointer;
-border-radius: 10px; /* Borda arredondada */
+border-radius: 10px; 
 transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
 }
 
 .finish-button:active{
-  background-color: #b89d08c2; /* Cor de fundo ao passar o mouse, correspondente ao Bootstrap */
-  color: #fff; /* Cor do texto ao passar o mouse, correspondente ao Bootstrap */
-  border-color: #b89d08c2; /* Cor da borda ao passar o mouse, correspondente ao Bootstrap */
+  background-color: #b89d08c2; 
+  color: #fff; 
+  border-color: #b89d08c2; 
 }
 .pre-prova-container {
 background-color: #fff;
