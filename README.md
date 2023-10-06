@@ -4,7 +4,7 @@
 
 O Sincopeças App é um PWA desenvolvido especialmente para avaliar o nível de conhecimento de vendedores de peças automotivas. Projetado tanto para colaboradores individuais quanto para empresas, oferece uma maneira prática e eficaz de determinar a competência e potencial de graduação salarial de um vendedor.
 
-# Funcionalidades
+# Funcionalidades:
 
 ## Para Empresas:
 1. Acesso via Site: As empresas encaminham o colaborador ou candidato ao aplicativo por meio do site oficial da Sincopeças PE.
@@ -30,8 +30,8 @@ O Sincopeças App é um PWA desenvolvido especialmente para avaliar o nível de 
 O Sincopeças App é uma ferramenta indispensável para as empresas e vendedores do setor automotivo de Pernambuco que desejam avaliar e melhorar constantemente seus conhecimentos e habilidades. Através de sua interface amigável e funcionalidades eficientes, o aplicativo garante uma avaliação justa e precisa, contribuindo para a elevação do padrão de excelência no mercado.
 
 # Equipe:
-Fernanda de Melo
-Guilherme Lucena
-Kelveny Malafaia
-Iuri Colaço
-Marcela Ellen
+- Fernanda de Melo
+- Guilherme Lucena
+- Kelveny Malafaia
+- Iuri Colaço
+- Marcela Ellen
